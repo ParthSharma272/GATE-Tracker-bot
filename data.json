@@ -1,0 +1,185 @@
+{
+    "milestones": [
+        {
+            "date": "2025-02-15",
+            "description": "GATE DA Exam"
+        },
+        {
+            "date": "2025-10-15",
+            "description": "Syllabus Completion"
+        }
+    ],
+    "daily_targets": {
+        "2025-08-03": {
+            "6460875223": {
+                "name": "Vivek Pradhan",
+                "target": "< Relational algebra>"
+            },
+            "5491238997": {
+                "name": "Bhanu Partap",
+                "targets": [
+                    {
+                        "text": "Eigen Values, Eigen Vectors",
+                        "completed": false,
+                        "completed_at": null
+                    }
+                ]
+            }
+        }
+    },
+    "reminders": {},
+    "subjects": {
+        "Probability": {
+            "topics": [
+                "and Statistics\" Counting (permutation and combinations)",
+                "probability axioms",
+                "Sample space",
+                "events",
+                "independent events",
+                "mutually exclusive events",
+                "marginal",
+                "conditional and joint probability",
+                "Bayes Theorem",
+                "conditional expectation and variance",
+                "mean",
+                "median",
+                "mode and standard deviation",
+                "correlation",
+                "and covariance",
+                "random variables",
+                "discrete random variables and probability mass functions",
+                "uniform",
+                "Bernoulli",
+                "binomial distribution",
+                "Continuous random variables and probability distribution function",
+                "uniform",
+                "exponential",
+                "Poisson",
+                "normal",
+                "standard normal",
+                "t-distribution",
+                "chi-squared distributions",
+                "cumulative distribution function",
+                "Conditional PDF",
+                "Central limit theorem",
+                "confidence interval",
+                "z-test",
+                "t-test",
+                "chi-squared test."
+            ],
+            "total_topics": 35
+        },
+        "Linear_Algebra": {
+            "topics": [
+                "Vector space",
+                "subspaces",
+                "linear dependence and independence of vectors",
+                "matrices",
+                "projection matrix",
+                "orthogonal matrix",
+                "idempotent matrix",
+                "partition matrix and their properties",
+                "quadratic forms",
+                "systems of linear equations and solutions",
+                "Gaussian elimination",
+                "eigenvalues and eigenvectors",
+                "determinant",
+                "rank",
+                "nullity",
+                "projections",
+                "LU decomposition",
+                "singular value decomposition.\""
+            ],
+            "total_topics": 18
+        },
+        "Calculus_and_Optimization": {
+            "topics": [
+                "Functions of a single variable",
+                "limit",
+                "continuity and differentiability",
+                "Taylor series",
+                "maxima and minima",
+                "optimization involving a single variable."
+            ],
+            "total_topics": 6
+        },
+        "Programming_Data": {
+            "topics": [
+                "Structures_Algorithms\" Programming in Python",
+                "basic data structures: stacks",
+                "queues",
+                "linked lists",
+                "trees",
+                "hash tables",
+                "Search algorithms: linear search and binary search",
+                "basic sorting algorithms: selection sort",
+                "bubble sort and insertion sort",
+                "divide and conquer: mergesort",
+                "quicksort",
+                "introduction to graph theory",
+                "basic graph algorithms: traversals and shortest path."
+            ],
+            "total_topics": 13
+        },
+        "Database_Management_Warehousing": {
+            "topics": [
+                "ER-model",
+                "relational model: relational algebra",
+                "tuple calculus",
+                "SQL",
+                "integrity constraints",
+                "normal form",
+                "file organization",
+                "indexing",
+                "data types",
+                "data transformation such as normalization",
+                "discretization",
+                "sampling",
+                "compression",
+                "data warehouse modelling: schema for multidimensional data models",
+                "concept hierarchies",
+                "measures: categorization and computations."
+            ],
+            "total_topics": 16
+        },
+        "Machine": {
+            "topics": [
+                "Learning\" (i) Supervised Learning: regression and classification problems",
+                "simple linear regression",
+                "multiple linear regression",
+                "ridge regression",
+                "logistic regression",
+                "k-nearest neighbour",
+                "naive Bayes classifier",
+                "linear discriminant analysis",
+                "support vector machine",
+                "decision trees",
+                "bias-variance trade-off",
+                "cross-validation methods such as leave-one-out (LOO) cross-validation",
+                "k-folds cross-validation",
+                "multi-layer perceptron",
+                "feed-forward neural network; (ii) Unsupervised Learning: clustering algorithms",
+                "k-means/k-medoid",
+                "hierarchical clustering",
+                "top-down",
+                "bottom-up: single-linkage",
+                "multiple-linkage",
+                "dimensionality reduction",
+                "principal component analysis."
+            ],
+            "total_topics": 22
+        },
+        "AI": {
+            "topics": [
+                "Search: informed",
+                "uninformed",
+                "adversarial; logic",
+                "propositional",
+                "predicate; reasoning under uncertainty topics conditional independence representation",
+                "exact inference through variable elimination",
+                "and approximate inference through sampling.\""
+            ],
+            "total_topics": 7
+        }
+    }
+}
